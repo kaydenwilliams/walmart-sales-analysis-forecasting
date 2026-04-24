@@ -1,4 +1,4 @@
-# Walmart Store Sales Analysis
+# Walmart Store Sales Analysis and Forecasting
 
 ## Overview
 Analysis of 421,570 weekly sales records across 45 Walmart stores from 2010 to 2012.
