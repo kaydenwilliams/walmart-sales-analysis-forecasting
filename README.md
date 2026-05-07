@@ -12,6 +12,11 @@ Python, pandas, scikit-learn, matplotlib, Tableau
 Walmart Recruiting Store Sales Forecasting — Kaggle  
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
+## Business Questions
+- Which store types and sizes generate the most sales and are they growing or declining over time?
+- How much do holiday weeks and markdown events actually boost sales compared to normal weeks?
+- Do external economic factors like unemployment and fuel prices meaningfully affect weekly sales?
+
 ## Key Findings
 - Type A stores (avg 182K sq ft) generated 64.3% of total revenue ($4.33B of $6.73B), 
   confirming store size as the primary driver of sales volume
